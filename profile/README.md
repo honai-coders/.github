@@ -1,3 +1,3 @@
 # Honai Coders - ITS
 
-Komunitas Mahasiswa Papua yang berkuliah di jurusan IT kampus ITS Surabaya
+Komunitas Mahasiswa Papua yang memiliki minat di bidang IT kampus ITS Surabaya
